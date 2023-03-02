@@ -1,0 +1,32 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.even {
+    background-color: black;
+    color: white;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.contact {
+    background-color: black;
+    color: white;
+}
+
+.maps-container {
+    display: flex;
+}
+
+.maps-frame {
+    width: 100%;
+}
+
+.btn {
+    background-color: rgb(194, 172, 145) !important;
+    color: black;
+}
+
+.button {
+    margin-top: 10px;
+}
